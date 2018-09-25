@@ -1,0 +1,11 @@
+{
+    "nome": "Marcelo",
+    "posicao": "lateral direito",
+    "camisa": "10",
+    "cpf": 506465010,
+    "selecao": {
+        "nomeSelecao": "Brasil",
+        "nomeEstadio": "Maracana",
+        "cnpj": 984890480
+    }
+}
